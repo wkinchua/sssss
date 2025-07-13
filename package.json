@@ -5,7 +5,6 @@
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
-    "fbdb" : "node uploadorders.js"
   },
   "keywords": ["restaurant", "api", "express"],
   "author": "Your Name",
